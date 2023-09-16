@@ -12,10 +12,10 @@ description="An Immutable List type for python."
 readme = "README.md"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: MIT License",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
 "Homepage" = "https://github.com/DJ-BBot/immutables"
-"Bug Tracker' = "https://github.com/DJ-BBot/immutables/issues"
+"Bug Tracker" = "https://github.com/DJ-BBot/immutables/issues"
